@@ -1,0 +1,23 @@
+@media print {
+  main.row {
+    min-height: 200rem;
+  }
+  /* fieldset#curriculum {
+    margin-top: 5rem;
+  } */
+  /* fieldset#curriculum legend.fieldset-heading {
+    padding-top: 5rem;
+  } */
+  .gap10 {
+    padding-top:10rem;
+  }
+  .gap5 {
+    padding-top: 5rem;
+  }
+  .gap8 {
+    padding-top: 8.15rem;
+  }
+  fieldset#freelancing legend.fieldset-heading {
+    padding-top: 5rem;
+  }
+}
